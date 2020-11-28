@@ -65,10 +65,10 @@
             <h2>Welcome to <span>Tech Industry</span></h2>
             <p>-- Knowledge sharing platform --</p><br><br>
               <p><span style="color: #2a73cc; font-size: 25px;">Free New Live Webinars on</span></p>
-              <p>1. Core JAVA - Generics and Collections - <span style="color: #2a73cc;"> Sept, 2020</span>
+              <p>1. Core JAVA - Generics and Collections - <span style="color: #2a73cc;"> Dec, 2020</span>
                 <a href="https://docs.google.com/forms/d/14wpI_1G-ANW-ywkLUYih4Z7fpTtUWXPUfoIWy5CgUY4/viewform" class="banner-button" target="_blank">Register Now</a>
               </p>
-              <p>2. Big DATA & Data Analytics - Advanced - <span style="color: #2a73cc;"> Sept, 2020</span>
+              <p>2. Big DATA & Data Analytics - Advanced - <span style="color: #2a73cc;"> Dec, 2020</span>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWakIJohNwRzaiiGvv3JW-KzowpYKt2Yx1T9CLLM18-RWKVg/viewform" class="banner-button" target="_blank">Register Now</a>
               </p>
           </div>
