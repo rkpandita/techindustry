@@ -65,11 +65,9 @@
             <h2>Welcome to <span>Tech Industry</span></h2>
             <p>-- Knowledge sharing platform --</p><br><br>
               <p><span style="color: #2a73cc; font-size: 25px;">Free New Live Webinars on</span></p>
-              <p>1. Core JAVA - Generics and Collections - <span style="color: #2a73cc;"> Dec, 2020</span>
-                <a href="https://docs.google.com/forms/d/14wpI_1G-ANW-ywkLUYih4Z7fpTtUWXPUfoIWy5CgUY4/viewform" class="banner-button" target="_blank">Register Now</a>
-              </p>
-              <p>2. Big DATA & Data Analytics - Advanced - <span style="color: #2a73cc;"> Dec, 2020</span>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWakIJohNwRzaiiGvv3JW-KzowpYKt2Yx1T9CLLM18-RWKVg/viewform" class="banner-button" target="_blank">Register Now</a>
+              <br/>
+              <p>JAVA SE 8 - Lambda's and Stream API - <span style="color: #2a73cc;"> Jan, 2021</span>
+                <a href="https://docs.google.com/forms/d/101fsqwjv9bB52jc2MWTAjansg9xHPQSj3V1Do3LQVwk/viewform" class="banner-button" target="_blank">Register Now</a>
               </p>
           </div>
         </div>
@@ -99,13 +97,13 @@
         <div class="col-md-4 col-sm-4 col-xs-4">
           <div class="counter-item text-center">
             <h5>Sessions completed</h5>
-            <div class="timer" data-from="0" data-to="7" data-speed="5000" data-refresh-interval="50"></div>
+            <div class="timer" data-from="0" data-to="8" data-speed="5000" data-refresh-interval="50"></div>
           </div>
         </div>
         <div class="col-md-4 col-sm-4 col-xs-4">
           <div class="counter-item text-center">
             <h5>Learners</h5>
-            <div class="timer" data-from="0" data-to="499" data-speed="5000" data-refresh-interval="50"></div>
+            <div class="timer" data-from="0" data-to="510" data-speed="5000" data-refresh-interval="50"></div>
           </div>
         </div>
       </div>
@@ -277,9 +275,9 @@
               <div class="col-md-12 text-center">
                 <h3>Subscribe For Updates</h3>
               </div>
-              <p>1. Join our 150+ Facebook Subscribers to get access to the latest sessions, seminars, conferences and much more!</p>
+              <p>1. Join our 200+ Facebook Subscribers to get access to the latest sessions, seminars, conferences and much more!</p>
               <p>2. Please join our 'WhatsApp Group' to keep yourself posted in Real time regarding our latest sessions and we well also help you to solve your queries directly with the speaker. </p>
-              <p>3. Kindly connect with our Youtube page to get access to the previous weeks recordings & sessions</p>
+              <p>3. Kindly connect with our Youtube page to get access to our latest recordings & sessions</p>
           </div>
         </div>
         <div class="col-md-6">
