@@ -65,16 +65,15 @@
             <h2>Welcome to <span>Tech Industry</span></h2>
             <p>-- Knowledge sharing platform --</p><br><br>
               <p><span style="color: #2a73cc; font-size: 25px;">Free New Live Webinars on</span></p>
-              <p>1. Core JAVA - Generics and Collections - <span style="color: #2a73cc;"> Dec, 2020</span>
-                <a href="https://docs.google.com/forms/d/14wpI_1G-ANW-ywkLUYih4Z7fpTtUWXPUfoIWy5CgUY4/viewform" class="banner-button" target="_blank">Register Now</a>
+              <p>JAVA SE 8 - Lambda's and Stream API - <span style="color: #2a73cc;"> April, 2022</span>
+                <a href="https://docs.google.com/forms/d/101fsqwjv9bB52jc2MWTAjansg9xHPQSj3V1Do3LQVwk/viewform" class="banner-button" target="_blank">Register Now</a>
               </p>
-              <p>2. Big DATA & Data Analytics - Advanced - <span style="color: #2a73cc;"> Dec, 2020</span>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWakIJohNwRzaiiGvv3JW-KzowpYKt2Yx1T9CLLM18-RWKVg/viewform" class="banner-button" target="_blank">Register Now</a>
-              </p>
+              <br/>
           </div>
         </div>
       </div>
     </div>
+    <p><a href="http://www.techindustry.in/omnifood" target="_blank" <span style="color: orange; font-size: 25px;">< Omnifood - Our food app ></a></p>
   </div>
 </div>
 <div class="about" id="about">
@@ -93,19 +92,19 @@
         <div class="col-md-4 col-sm-4 col-xs-4 block">
           <div class="counter-item text-center">
             <h5>Our Volunteers</h5>
-            <div class="timer" data-from="0" data-to="5" data-speed="5000" data-refresh-interval="50"></div>
+            <div class="timer" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50"></div>
           </div>
         </div>
         <div class="col-md-4 col-sm-4 col-xs-4">
           <div class="counter-item text-center">
             <h5>Sessions completed</h5>
-            <div class="timer" data-from="0" data-to="7" data-speed="5000" data-refresh-interval="50"></div>
+            <div class="timer" data-from="0" data-to="18" data-speed="5000" data-refresh-interval="50"></div>
           </div>
         </div>
         <div class="col-md-4 col-sm-4 col-xs-4">
           <div class="counter-item text-center">
             <h5>Learners</h5>
-            <div class="timer" data-from="0" data-to="499" data-speed="5000" data-refresh-interval="50"></div>
+            <div class="timer" data-from="0" data-to="1017" data-speed="5000" data-refresh-interval="50"></div>
           </div>
         </div>
       </div>
@@ -163,7 +162,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-lg-offset-1 text-center text">
-        <h3>Volunteers & Speakers</h3>
+        <h3>Speakers & Volunteers</h3>
         <div class="row">
           <div class="col-md-3 col-sm-3">
             <div class="portfolio-item"> 
@@ -180,37 +179,37 @@
           </div>
           <div class="col-md-3 col-sm-3">
             <div class="portfolio-item"> 
-                <a href="https://www.linkedin.com/in/sawan-bhat-2398851a3/"> <img class="img-portfolio img-responsive" src="images/portfolio-2.jpg" alt="Portfolio-2"> </a> 
+                <a href="https://www.linkedin.com/in/anshubhat53/"> <img class="img-portfolio img-responsive" src="images/portfolio-2.jpg" alt="Portfolio-2"> </a> 
             </div>
             <div>
               <p>
-                <a href="https://www.linkedin.com/in/sawan-bhat-2398851a3/" target="_blank"><i class="fa fa-linkedin"></i></a> 
-                <h4>Sawan Bhat</h4>
-                <h5 style="margin-bottom: 50px;">Volunteer</h5>
+                <a href="https://www.linkedin.com/in/anshubhat53/" target="_blank"><i class="fa fa-linkedin"></i></a> 
+                <h4>Anshu Bhat</h4>
+                <h5 style="margin-bottom: 50px;">Speaker - Automation</h5>
               </p>
             </div>
           </div>
           <div class="col-md-3 col-sm-3">
             <div class="portfolio-item"> 
-                <a href="https://www.linkedin.com/in/premlata-prajapati-0405b6146/"> <img class="img-portfolio img-responsive" src="images/portfolio-3.jpg" alt="Portfolio-3"> </a> 
+                <a href="https://www.linkedin.com/in/aasheembhat/"> <img class="img-portfolio img-responsive" src="images/portfolio-3.jpg" alt="Portfolio-3"> </a> 
             </div>
             <div>
               <p>
-                <a href="https://www.linkedin.com/in/premlata-prajapati-0405b6146/" target="_blank"><i class="fa fa-linkedin"></i></a> 
-                <h4>Premlata Prajapati</h4>
-                <h5 style="margin-bottom: 50px;">Volunteer</h5>
+                <a href="https://www.linkedin.com/in/aasheembhat/" target="_blank"><i class="fa fa-linkedin"></i></a> 
+                <h4>Aasheem Bhat</h4>
+                <h5 style="margin-bottom: 50px;">Marketing Head</h5>
               </p>
             </div>
           </div>
           <div class="col-md-3 col-sm-3">
             <div class="portfolio-item"> 
-                <a href="https://www.linkedin.com/in/suraj-pandita-783395100/"> <img class="img-portfolio img-responsive" src="images/portfolio-4.jpg" alt="Portfolio-4"> </a> 
+                <a href="https://www.linkedin.com/in/pawankpandita/"> <img class="img-portfolio img-responsive" src="images/portfolio-4.jpg" alt="Portfolio-4"> </a> 
             </div>
             <div>
               <p>
-                <a href="https://www.linkedin.com/in/suraj-pandita-783395100/" target="_blank"><i class="fa fa-linkedin"></i></a> 
-                <h4>Suraj Pandita</h4>
-                <h5 style="margin-bottom: 50px;">Speaker - Big Data</h5>
+                <a href="https://www.linkedin.com/in/pawankpandita/" target="_blank"><i class="fa fa-linkedin"></i></a> 
+                <h4>Pawan K Pandita</h4>
+                <h5 style="margin-bottom: 50px;">Organizer/Volunteer</h5>
               </p>
             </div>
           </div>
@@ -277,9 +276,9 @@
               <div class="col-md-12 text-center">
                 <h3>Subscribe For Updates</h3>
               </div>
-              <p>1. Join our 150+ Facebook Subscribers to get access to the latest sessions, seminars, conferences and much more!</p>
+              <p>1. Join our 200+ Facebook Subscribers to get access to the latest sessions, seminars, conferences and much more!</p>
               <p>2. Please join our 'WhatsApp Group' to keep yourself posted in Real time regarding our latest sessions and we well also help you to solve your queries directly with the speaker. </p>
-              <p>3. Kindly connect with our Youtube page to get access to the previous weeks recordings & sessions</p>
+              <p>3. Kindly connect with our Youtube page to get access to our latest recordings & sessions</p>
           </div>
         </div>
         <div class="col-md-6">
